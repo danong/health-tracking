@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Health Tracking
 
 You can use the [editor on GitHub](https://github.com/danong/health-tracking/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
