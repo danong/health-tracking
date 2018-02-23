@@ -1,3 +1,5 @@
+![Logo](/Health Tracker-logo.png)
+
 ## Health Tracking
 
 This project is an on-going attempt to transform my personal health data into meaningful and actionable insights.
